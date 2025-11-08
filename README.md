@@ -147,5 +147,3 @@ By integrating APIs, automation, and interactive visualization, it transforms co
 💼 **Developed during my internship at HexSoftwares Company**, this project reflects my strong interest in data analytics, visualization, and building impactful AI-powered solutions.
 
 ---
-
-Would you like me to create a **GitHub banner image (cover image)** for this README — something modern and visually consistent with your LinkedIn post (with icons, project title, and tagline)?
