@@ -117,7 +117,7 @@ reportlab
 
 ## 💻 GitHub Repository
 
-🔗 [**GitHub Repo**](https://github.com/venkateshgarg2003/YouTube-Data-Dashboard)
+🔗 [**GitHub Repo**](https://github.com/Venki01a/HexSoftwares_Building_a_Youtube_Data_Dashboard_with_Streamlit.git)
 
 ---
 
