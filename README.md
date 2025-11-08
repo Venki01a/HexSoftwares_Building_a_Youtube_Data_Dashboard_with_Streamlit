@@ -17,25 +17,25 @@ This project combines **data science, visualization, and automation** to make Yo
 
 ## ✨ Key Features
 
-✅ **Smart Channel Search** — Type any YouTube channel name or handle, and the app automatically fetches its Channel ID.
-✅ **Real-Time Analytics** — Instantly displays Subscribers, Total Views, and Total Videos.
-✅ **Recent Video Insights** — Fetches the latest uploads and compares engagement metrics.
-✅ **Interactive Charts** —
+ * ✅ **Smart Channel Search** — Type any YouTube channel name or handle, and the app automatically fetches its Channel ID.
+ * ✅ **Real-Time Analytics** — Instantly displays Subscribers, Total Views, and Total Videos.
+ * ✅ **Recent Video Insights** — Fetches the latest uploads and compares engagement metrics.
+ * ✅ **Interactive Charts** —
 
 * 📈 *Views vs Likes* → Understand video engagement
 * 💬 *Views vs Comments* → Analyze audience interaction
-  ✅ **Auto-Generated Reports** — Download detailed analytics in **CSV** or **PDF** formats.
-  ✅ **Error Handling** — Gracefully manages invalid inputs and API errors.
-  ✅ **Modern Dashboard UI** — Clean, responsive, and user-friendly built with Streamlit.
+* ✅ **Auto-Generated Reports** — Download detailed analytics in **CSV** or **PDF** formats.
+* ✅ **Error Handling** — Gracefully manages invalid inputs and API errors.
+* ✅ **Modern Dashboard UI** — Clean, responsive, and user-friendly built with Streamlit.
 
 ---
 
 ## 🧠 Insights & Conclusions
 
-📊 Channels with a high **Likes-to-Views** ratio reflect strong audience engagement.
-💬 Frequent comments indicate deeper audience connection and community strength.
-⏱️ Consistent uploads correlate with better visibility and subscriber growth.
-📄 The dashboard empowers creators, analysts, and marketers to evaluate channel performance in seconds — saving hours of manual analysis.
+* 📊 Channels with a high **Likes-to-Views** ratio reflect strong audience engagement.
+* 💬 Frequent comments indicate deeper audience connection and community strength.
+* ⏱️ Consistent uploads correlate with better visibility and subscriber growth.
+* 📄 The dashboard empowers creators, analysts, and marketers to evaluate channel performance in seconds — saving hours of manual analysis.
 
 ---
 
@@ -123,10 +123,10 @@ reportlab
 
 ## 🧾 Future Enhancements
 
-🚀 Add a date range selector to filter historical video analytics.
-🎯 Integrate **comment sentiment analysis** for deeper audience insights.
-🌓 Add **dark mode** and improved visual themes.
-📈 Compare multiple channels side-by-side for benchmarking.
+* 🚀 Add a date range selector to filter historical video analytics.
+* 🎯 Integrate **comment sentiment analysis** for deeper audience insights.
+* 🌓 Add **dark mode** and improved visual themes.
+* 📈 Compare multiple channels side-by-side for benchmarking.
 
 ---
 
