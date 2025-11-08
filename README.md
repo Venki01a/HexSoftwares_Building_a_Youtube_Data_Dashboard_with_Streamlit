@@ -133,6 +133,7 @@ reportlab
 ## 👨‍💻 Author
 
 **Venkatesh Garg**
+
 💼 **Built during my internship as a Data Science Intern at HexSoftwares Company.**
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/venkatesh-garg-17b822326/)
 
